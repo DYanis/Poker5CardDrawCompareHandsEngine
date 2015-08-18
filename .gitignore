@@ -194,3 +194,9 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+ *.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
