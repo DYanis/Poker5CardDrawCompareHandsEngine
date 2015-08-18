@@ -1,0 +1,4 @@
+C:\Users\softwareacademy\Desktop\Demo\bin\Debug\Poker.exe
+C:\Users\softwareacademy\Desktop\Demo\bin\Debug\Poker.pdb
+C:\Users\softwareacademy\Desktop\Demo\obj\Debug\Poker.exe
+C:\Users\softwareacademy\Desktop\Demo\obj\Debug\Poker.pdb
