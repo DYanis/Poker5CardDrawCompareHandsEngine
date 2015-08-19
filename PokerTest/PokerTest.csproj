@@ -67,7 +67,7 @@
     <Compile Include="HandStrengthRecognizerTests\IsValidHandTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Demo\Poker.csproj">
+    <ProjectReference Include="..\Poker\Poker.csproj">
       <Project>{28fe6ba3-4622-406e-81c4-419b0d2368f9}</Project>
       <Name>Poker</Name>
     </ProjectReference>

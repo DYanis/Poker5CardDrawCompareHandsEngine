@@ -40,3 +40,10 @@ C:\Users\softwareacademy\Desktop\Poker-FiveCardDraw\PokerTest\bin\Debug\Poker.pd
 C:\Users\softwareacademy\Desktop\Poker-FiveCardDraw\PokerTest\obj\Debug\PokerTest.csprojResolveAssemblyReference.cache
 C:\Users\softwareacademy\Desktop\Poker-FiveCardDraw\PokerTest\obj\Debug\PokerTest.dll
 C:\Users\softwareacademy\Desktop\Poker-FiveCardDraw\PokerTest\obj\Debug\PokerTest.pdb
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\bin\Debug\PokerTest.dll
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\bin\Debug\PokerTest.pdb
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\bin\Debug\Poker.exe
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\bin\Debug\Poker.pdb
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\obj\Debug\PokerTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\obj\Debug\PokerTest.dll
+C:\Users\Admin\Desktop\Poker-5CardDraw\PokerTest\obj\Debug\PokerTest.pdb
